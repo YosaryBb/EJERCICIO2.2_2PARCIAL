@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EJERCICIO2.2_2PARCIAL</string>
+    <string name="lista_desde_la_api">LISTA DESDE LA API</string>
+    <string name="consultar">Consultar</string>
+</resources>
